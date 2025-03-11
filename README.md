@@ -1,6 +1,6 @@
-# Deep Learning for Computer Vision - Garbage Classification Project
+# Garbage Classification and Detection
 
-This repository contains the implementation of a deep learning-based garbage classification system using computer vision techniques.
+A deep learning project that implements both classification and object detection approaches for garbage/waste materials using state-of-the-art deep learning models.
 
 ## Project Structure
 
@@ -44,8 +44,5 @@ This repository contains the implementation of a deep learning-based garbage cla
 ## Configuration
 - `taco.yaml`: YOLO model configuration for TACO dataset
 
-## Team Members
-- Team 8
-
-## License
-[Specify your license here] 
+## Author
+- Bumin Kagan Cetin
